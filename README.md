@@ -1,4 +1,4 @@
-# FEML-8_Homeworks (Машинное обучение)
+# FEML-8_(Classic Machine Learning, Feature Engineering)
 
 №6_Работа с переменными (исправлено с формулы z-масштабирования на применение встроенного StandardScaler'a)
 
