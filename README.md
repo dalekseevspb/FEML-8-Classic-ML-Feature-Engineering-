@@ -1,4 +1,4 @@
-# FEML-8_(Classic Machine Learning, Feature Engineering)
+# FEML-8_(Classic Machine Learning, Feature Engineering: Работа с признаками и построение моделей ML)
 
 №6_Работа с переменными (исправлено с формулы z-масштабирования на применение встроенного StandardScaler'a)
 
