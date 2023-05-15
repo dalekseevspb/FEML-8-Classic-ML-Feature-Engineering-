@@ -72,7 +72,7 @@
 # (#12) «Улучшение качества модели» (GridSearchCV)
 Взять boston house-prices dataset (sklearn.datasets.load_boston) и сделать то же самое для задачи регрессии 
 (попробовать разные алгоритмы, поподбирать параметры, вывести итоговое качество):
-- обучение модели регрессора методом KNN
+- обучение модели регрессора методом KNN (KNeighborsRegressor)
 - обучение модели линейной регрессии
 - подбор оптимальных параметров регрессора с использованием GridSearchCV. 
 (В качестве регрессора использованы RandomForestRegressor, DecisionTreeRegressor и ExtraTreeRegressor)
